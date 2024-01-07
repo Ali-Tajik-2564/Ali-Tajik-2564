@@ -1,4 +1,4 @@
-<img src="github-header-image.png" width="80%" height="50%"></img>
+<img src="Ali Tajik.png" width="100%" height="70%"></img>
 ## 🌐 Socials:
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/https_ali_tajik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/__ali_tajik?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-tajik-a28778243)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/alit_2564?t=bHPK1XWrhMEMdTck_xBc8A&s=09) 
 
